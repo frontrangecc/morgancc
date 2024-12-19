@@ -1,0 +1,82 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn how to provide sufficient color contrast](https://dequeuniversity.com/rules/axe/4.10/color-contrast).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-0-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,6,DIV,0,DIV,1,DIV,1,DIV,0,DIV,2,P,1,A,0,A",
+            "selector": "div.et_pb_text_inner > p > a > a",
+            "boundingRect": {
+              "top": 6137,
+              "bottom": 6179,
+              "left": 20,
+              "right": 384,
+              "width": 364,
+              "height": 42
+            },
+            "snippet": "<a href=\"tel:(970) 542-3107\">",
+            "nodeLabel": "(970) 542-3107",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.74 (foreground color: #2ea3f2, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-1-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,6,DIV,0,DIV,1,DIV,1,DIV",
+                  "selector": "div.et_pb_section > div.et_pb_with_border > div.et_pb_column > div.et_pb_module",
+                  "boundingRect": {
+                    "top": 5876,
+                    "bottom": 6181,
+                    "left": 20,
+                    "right": 392,
+                    "width": 372,
+                    "height": 305
+                  },
+                  "snippet": "<div class=\"et_pb_module et_pb_text et_pb_text_16  et_pb_text_align_left et_pb_bg_layo…\">",
+                  "nodeLabel": "Contributions to Morgan Community College Center for Arts and Community Enrichm…"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn how to provide sufficient color contrast](https://dequeuniversity.com/rules/axe/4.10/color-contrast).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-0-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,2,DIV,0,DIV,1,DIV,0,DIV,2,P,2,A",
+            "selector": "div.et_pb_module > div.et_pb_text_inner > p > a",
+            "boundingRect": {
+              "top": 1038,
+              "bottom": 1061,
+              "left": 573,
+              "right": 866,
+              "width": 293,
+              "height": 23
+            },
+            "snippet": "<a href=\"https://www.cccs.edu/\" onclick=\"if (!window.__cfRLUnblockHandlers) return false; javascript:window.open('h…\">",
+            "nodeLabel": "Colorado Community College System",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.74 (foreground color: #2ea3f2, background color: #ffffff, font size: 12.8pt (17px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-1-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV",
+                  "selector": "div.entry-content > div.et-l > div.et_builder_inner_content > div.et_pb_section",
+                  "boundingRect": {
+                    "top": 437,
+                    "bottom": 2743,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 2307
+                  },
+                  "snippet": "<div class=\"et_pb_section et_pb_section_4 et_section_regular\">",
+                  "nodeLabel": "Morgan Community College is accredited by the Higher Learning Commission.\n\nStat…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-2-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,2,DIV,0,DIV,1,DIV,0,DIV,2,P,6,A",
+            "selector": "div.et_pb_module > div.et_pb_text_inner > p > a",
+            "boundingRect": {
+              "top": 1065,
+              "bottom": 1115,
+              "left": 135,
+              "right": 1199,
+              "width": 1064,
+              "height": 50
+            },
+            "snippet": "<a href=\"https://www.cccs.edu/about-cccs/state-board/\" onclick=\"if (!window.__cfRLUnblockHandlers) return false; javascript:window.open('h…\">",
+            "nodeLabel": "State Board for Community College and Occupational Education",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.74 (foreground color: #2ea3f2, background color: #ffffff, font size: 12.8pt (17px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-1-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV",
+                  "selector": "div.entry-content > div.et-l > div.et_builder_inner_content > div.et_pb_section",
+                  "boundingRect": {
+                    "top": 437,
+                    "bottom": 2743,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 2307
+                  },
+                  "snippet": "<div class=\"et_pb_section et_pb_section_4 et_section_regular\">",
+                  "nodeLabel": "Morgan Community College is accredited by the Higher Learning Commission.\n\nStat…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-3-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,3,DIV,0,DIV,1,DIV,0,DIV,1,P,1,A",
+            "selector": "div.et_pb_module > div.et_pb_text_inner > p > a",
+            "boundingRect": {
+              "top": 1278,
+              "bottom": 1301,
+              "left": 272,
+              "right": 480,
+              "width": 208,
+              "height": 23
+            },
+            "snippet": "<a href=\"https://aseeducationfoundation.org/\" target=\"_blank\" rel=\"noopener\">",
+            "nodeLabel": "ASE Education Foundation",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.52 (foreground color: #2ea3f2, background color: #f5f5f5, font size: 12.8pt (17px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-4-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,3,DIV,0,DIV,1,DIV",
+                  "selector": "div.et_pb_section > div.et_pb_row > div.et_pb_column > div.et_pb_module",
+                  "boundingRect": {
+                    "top": 1215,
+                    "bottom": 1329,
+                    "left": 135,
+                    "right": 1215,
+                    "width": 1080,
+                    "height": 114
+                  },
+                  "snippet": "<div class=\"et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layou…\">",
+                  "nodeLabel": "Automotive Service Technology & Automotive Collision Repair Technology Accredit…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-5-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,3,DIV,0,DIV,2,DIV,0,DIV,1,P,1,A",
+            "selector": "div.et_pb_module > div.et_pb_text_inner > p > a",
+            "boundingRect": {
+              "top": 1408,
+              "bottom": 1431,
+              "left": 302,
+              "right": 1035,
+              "width": 732,
+              "height": 23
+            },
+            "snippet": "<a href=\"https://cdphe.colorado.gov/ems\" target=\"_blank\" rel=\"noopener\">",
+            "nodeLabel": "Colorado Department of Health Facilities and Emergency Medical Services Divisio…",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.52 (foreground color: #2ea3f2, background color: #f5f5f5, font size: 12.8pt (17px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-6-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,3,DIV,0,DIV,2,DIV",
+                  "selector": "div.et_pb_section > div.et_pb_row > div.et_pb_column > div.et_pb_module",
+                  "boundingRect": {
+                    "top": 1345,
+                    "bottom": 1458,
+                    "left": 135,
+                    "right": 1215,
+                    "width": 1080,
+                    "height": 114
+                  },
+                  "snippet": "<div class=\"et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layou…\">",
+                  "nodeLabel": "Emergency Medical Services Accreditation\n\nAccredited by the Colorado Department…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-7-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,4,DIV,1,DIV,0,DIV,0,DIV,1,P,0,A",
+            "selector": "div.et_pb_module > div.et_pb_text_inner > p > a",
+            "boundingRect": {
+              "top": 1542,
+              "bottom": 1565,
+              "left": 425,
+              "right": 682,
+              "width": 257,
+              "height": 23
+            },
+            "snippet": "<a href=\"https://www.colorado.gov/pacific/dora/Nursing\" onclick=\"if (!window.__cfRLUnblockHandlers) return false; javascript:window.open('h…\" target=\"_blank\" rel=\"noopener\">",
+            "nodeLabel": "Colorado State Board of Nursing",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.52 (foreground color: #2ea3f2, background color: #f5f5f5, font size: 12.8pt (17px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-8-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,4,DIV",
+                  "selector": "div.et-l > div.et_builder_inner_content > div.et_pb_section > div.et_pb_row",
+                  "boundingRect": {
+                    "top": 1478,
+                    "bottom": 1888,
+                    "left": 135,
+                    "right": 1215,
+                    "width": 1080,
+                    "height": 409
+                  },
+                  "snippet": "<div class=\"et_pb_row et_pb_row_5 et_pb_row_1-4_3-4\">",
+                  "nodeLabel": "Nursing Accreditation\n\nColorado State Board of Nursing\n\nThe Associate Degree Nu…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-9-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,4,DIV,1,DIV,0,DIV,0,DIV,3,P,6,EM,0,A",
+            "selector": "div.et_pb_text_inner > p > em > a",
+            "boundingRect": {
+              "top": 1739,
+              "bottom": 1762,
+              "left": 425,
+              "right": 538,
+              "width": 113,
+              "height": 23
+            },
+            "snippet": "<a href=\"tel:(404) 975-5000\">",
+            "nodeLabel": "(404) 975-5000",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.52 (foreground color: #2ea3f2, background color: #f5f5f5, font size: 12.8pt (17px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-8-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,4,DIV",
+                  "selector": "div.et-l > div.et_builder_inner_content > div.et_pb_section > div.et_pb_row",
+                  "boundingRect": {
+                    "top": 1478,
+                    "bottom": 1888,
+                    "left": 135,
+                    "right": 1215,
+                    "width": 1080,
+                    "height": 409
+                  },
+                  "snippet": "<div class=\"et_pb_row et_pb_row_5 et_pb_row_1-4_3-4\">",
+                  "nodeLabel": "Nursing Accreditation\n\nColorado State Board of Nursing\n\nThe Associate Degree Nu…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-10-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,4,DIV,1,DIV,0,DIV,0,DIV,4,P,1,A",
+            "selector": "div.et_pb_module > div.et_pb_text_inner > p > a",
+            "boundingRect": {
+              "top": 1838,
+              "bottom": 1861,
+              "left": 812,
+              "right": 1174,
+              "width": 361,
+              "height": 23
+            },
+            "snippet": "<a href=\"https://www.acenursing.org/search-programs\" target=\"_blank\" rel=\"noopener\">",
+            "nodeLabel": "https://www.acenursing.org/search-programs",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.52 (foreground color: #2ea3f2, background color: #f5f5f5, font size: 12.8pt (17px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-8-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,4,DIV",
+                  "selector": "div.et-l > div.et_builder_inner_content > div.et_pb_section > div.et_pb_row",
+                  "boundingRect": {
+                    "top": 1478,
+                    "bottom": 1888,
+                    "left": 135,
+                    "right": 1215,
+                    "width": 1080,
+                    "height": 409
+                  },
+                  "snippet": "<div class=\"et_pb_row et_pb_row_5 et_pb_row_1-4_3-4\">",
+                  "nodeLabel": "Nursing Accreditation\n\nColorado State Board of Nursing\n\nThe Associate Degree Nu…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-11-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,5,DIV,1,DIV,0,DIV,0,DIV,1,P,1,A",
+            "selector": "div.et_pb_module > div.et_pb_text_inner > p > a",
+            "boundingRect": {
+              "top": 1998,
+              "bottom": 2021,
+              "left": 790,
+              "right": 1054,
+              "width": 264,
+              "height": 23
+            },
+            "snippet": "<a href=\"https://www.aacnnursing.org/ccne-accreditation\" target=\"_blank\" rel=\"noopener\">",
+            "nodeLabel": "http://www.ccneaccreditation.org",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.52 (foreground color: #2ea3f2, background color: #f5f5f5, font size: 12.8pt (17px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-12-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,5,DIV",
+                  "selector": "div.et-l > div.et_builder_inner_content > div.et_pb_section > div.et_pb_row",
+                  "boundingRect": {
+                    "top": 1908,
+                    "bottom": 2104,
+                    "left": 135,
+                    "right": 1215,
+                    "width": 1080,
+                    "height": 196
+                  },
+                  "snippet": "<div class=\"et_pb_row et_pb_row_6 et_pb_row_1-4_3-4\">",
+                  "nodeLabel": "Bachelor of Science in Nursing (BSN) Accreditation\n\nThe baccalaureate degree pr…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-13-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,6,DIV,1,DIV,0,DIV,0,DIV,1,P,1,A",
+            "selector": "div.et_pb_module > div.et_pb_text_inner > p > a",
+            "boundingRect": {
+              "top": 2187,
+              "bottom": 2210,
+              "left": 568,
+              "right": 1104,
+              "width": 536,
+              "height": 23
+            },
+            "snippet": "<a href=\"http://www.capteonline.org/home.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">",
+            "nodeLabel": "Commission on Accreditation in Physical Therapy Education (CAPTE)",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.52 (foreground color: #2ea3f2, background color: #f5f5f5, font size: 12.8pt (17px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-14-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,6,DIV",
+                  "selector": "div.et-l > div.et_builder_inner_content > div.et_pb_section > div.et_pb_row",
+                  "boundingRect": {
+                    "top": 2124,
+                    "bottom": 2256,
+                    "left": 135,
+                    "right": 1215,
+                    "width": 1080,
+                    "height": 132
+                  },
+                  "snippet": "<div class=\"et_pb_row et_pb_row_7 et_pb_row_1-4_3-4\">",
+                  "nodeLabel": "Physical Therapist Assistant (PTA) Accreditation\n\nAccredited by the Commission …"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-15-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,7,DIV,0,DIV,0,DIV,0,DIV,1,P,1,A",
+            "selector": "div.et_pb_module > div.et_pb_text_inner > p > a",
+            "boundingRect": {
+              "top": 2337,
+              "bottom": 2387,
+              "left": 135,
+              "right": 1160,
+              "width": 1025,
+              "height": 50
+            },
+            "snippet": "<a href=\"https://www.cccs.edu/about-cccs/state-board/\" onclick=\"if (!window.__cfRLUnblockHandlers) return false; javascript:window.open('h…\">",
+            "nodeLabel": "State Board for Community Colleges and Occupational Education (SBCCOE)",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.74 (foreground color: #2ea3f2, background color: #ffffff, font size: 12.8pt (17px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-1-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV",
+                  "selector": "div.entry-content > div.et-l > div.et_builder_inner_content > div.et_pb_section",
+                  "boundingRect": {
+                    "top": 437,
+                    "bottom": 2743,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 2307
+                  },
+                  "snippet": "<div class=\"et_pb_section et_pb_section_4 et_section_regular\">",
+                  "nodeLabel": "Morgan Community College is accredited by the Higher Learning Commission.\n\nStat…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-16-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,7,DIV,0,DIV,0,DIV,0,DIV,2,P,2,A",
+            "selector": "div.et_pb_module > div.et_pb_text_inner > p > a",
+            "boundingRect": {
+              "top": 2408,
+              "bottom": 2431,
+              "left": 592,
+              "right": 991,
+              "width": 398,
+              "height": 23
+            },
+            "snippet": "<a href=\"https://cdhe.colorado.gov/about-us\" rel=\"noopener\" onclick=\"if (!window.__cfRLUnblockHandlers) return false; javascript:window.open('h…\" target=\"_blank\">",
+            "nodeLabel": "Colorado Commission on Higher Education (CCHE)",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.74 (foreground color: #2ea3f2, background color: #ffffff, font size: 12.8pt (17px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-1-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV",
+                  "selector": "div.entry-content > div.et-l > div.et_builder_inner_content > div.et_pb_section",
+                  "boundingRect": {
+                    "top": 437,
+                    "bottom": 2743,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 2307
+                  },
+                  "snippet": "<div class=\"et_pb_section et_pb_section_4 et_section_regular\">",
+                  "nodeLabel": "Morgan Community College is accredited by the Higher Learning Commission.\n\nStat…"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 11
+  }
+]

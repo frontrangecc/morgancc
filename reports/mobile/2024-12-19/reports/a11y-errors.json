@@ -1,0 +1,613 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn how to provide sufficient color contrast](https://dequeuniversity.com/rules/axe/4.10/color-contrast).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-0-SPAN",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,7,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,7,DIV,1,DIV,1,ARTICLE,0,DIV,1,DIV,0,SPAN,0,A,0,SPAN",
+            "selector": "div.tg-item-content-holder > span.tg-cats-holder > a.category > span.tg-item-term",
+            "boundingRect": {
+              "top": 5495,
+              "bottom": 5527,
+              "left": 152,
+              "right": 260,
+              "width": 109,
+              "height": 32
+            },
+            "snippet": "<span class=\"tg-item-term\" style=\"background:#8cb7c9;color:#ffffff\">",
+            "nodeLabel": "PRESS RELEASE",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.15 (foreground color: #ffffff, background color: #8cb7c9, font size: 8.3pt (11px), font weight: bold). Expected contrast ratio of 4.5:1"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-1-P",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,7,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,7,DIV,1,DIV,1,ARTICLE,0,DIV,1,DIV,2,P",
+            "selector": "article.tg-item > div.tg-item-inner > div.tg-item-content-holder > p.tg-item-excerpt",
+            "boundingRect": {
+              "top": 5659,
+              "bottom": 5779,
+              "left": 79,
+              "right": 333,
+              "width": 254,
+              "height": 120
+            },
+            "snippet": "<p class=\"tg-item-excerpt\">",
+            "nodeLabel": "The BAS in Education will incorporate more applied, hands-on learning than a tr…",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-2-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,7,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,7,DIV,1,DIV,1,ARTICLE,0,DIV,1,DIV",
+                  "selector": "div.tg-grid-holder > article.tg-item > div.tg-item-inner > div.tg-item-content-holder",
+                  "boundingRect": {
+                    "top": 5495,
+                    "bottom": 5906,
+                    "left": 55,
+                    "right": 357,
+                    "width": 302,
+                    "height": 411
+                  },
+                  "snippet": "<div class=\"tg-item-content-holder tg-dark image-format\">",
+                  "nodeLabel": "PRESS RELEASE\nMCC Announces New Bachelor’s Degree in Education & Opportunity NO…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-3-SPAN",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,7,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,7,DIV,1,DIV,1,ARTICLE,0,DIV,1,DIV,4,DIV,0,SPAN",
+            "selector": "div.tg-item-inner > div.tg-item-content-holder > div.tg-item-footer > span.tg-item-date",
+            "boundingRect": {
+              "top": 5867,
+              "bottom": 5885,
+              "left": 105,
+              "right": 222,
+              "width": 117,
+              "height": 18
+            },
+            "snippet": "<span class=\"tg-item-date\">",
+            "nodeLabel": "December 10, 2024",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-2-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,7,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,7,DIV,1,DIV,1,ARTICLE,0,DIV,1,DIV",
+                  "selector": "div.tg-grid-holder > article.tg-item > div.tg-item-inner > div.tg-item-content-holder",
+                  "boundingRect": {
+                    "top": 5495,
+                    "bottom": 5906,
+                    "left": 55,
+                    "right": 357,
+                    "width": 302,
+                    "height": 411
+                  },
+                  "snippet": "<div class=\"tg-item-content-holder tg-dark image-format\">",
+                  "nodeLabel": "PRESS RELEASE\nMCC Announces New Bachelor’s Degree in Education & Opportunity NO…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-4-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,7,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,7,DIV,1,DIV,1,ARTICLE,0,DIV,1,DIV,4,DIV,2,A",
+            "selector": "div.tg-item-inner > div.tg-item-content-holder > div.tg-item-footer > a.tg-item-comment",
+            "boundingRect": {
+              "top": 5863,
+              "bottom": 5888,
+              "left": 227,
+              "right": 307,
+              "width": 80,
+              "height": 25
+            },
+            "snippet": "<a class=\"tg-item-comment\" href=\"https://www.morgancc.edu/2024/12/10/mcc-announces-new-bachelors-degree-in-…\" target=\"_self\" style=\"color:#999999\">",
+            "nodeLabel": "No comment",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-2-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,7,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,7,DIV,1,DIV,1,ARTICLE,0,DIV,1,DIV",
+                  "selector": "div.tg-grid-holder > article.tg-item > div.tg-item-inner > div.tg-item-content-holder",
+                  "boundingRect": {
+                    "top": 5495,
+                    "bottom": 5906,
+                    "left": 55,
+                    "right": 357,
+                    "width": 302,
+                    "height": 411
+                  },
+                  "snippet": "<div class=\"tg-item-content-holder tg-dark image-format\">",
+                  "nodeLabel": "PRESS RELEASE\nMCC Announces New Bachelor’s Degree in Education & Opportunity NO…"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 4
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more about heading order](https://dequeuniversity.com/rules/axe/4.10/heading-order).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-5-H4",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,H4",
+            "selector": "div.et_pb_with_border > div.et_pb_blurb_content > div.et_pb_blurb_container > h4.et_pb_module_header",
+            "boundingRect": {
+              "top": 651,
+              "bottom": 676,
+              "left": 82,
+              "right": 281,
+              "width": 199,
+              "height": 25
+            },
+            "snippet": "<h4 class=\"et_pb_module_header\">",
+            "nodeLabel": "Areas of Study",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "link-name",
+    "title": "Links do not have a discernible name",
+    "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn how to make links accessible](https://dequeuniversity.com/rules/axe/4.10/link-name).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-6-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,A",
+            "selector": "div.et_pb_section > div.et_pb_module > div.et-pb-slider-arrows > a.et-pb-arrow-prev",
+            "boundingRect": {
+              "top": 374,
+              "bottom": 422,
+              "left": 0,
+              "right": 48,
+              "width": 48,
+              "height": 48
+            },
+            "snippet": "<a class=\"et-pb-arrow-prev\" href=\"#\">",
+            "nodeLabel": "div.et_pb_section > div.et_pb_module > div.et-pb-slider-arrows > a.et-pb-arrow-prev",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-7-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,1,A",
+            "selector": "div.et_pb_section > div.et_pb_module > div.et-pb-slider-arrows > a.et-pb-arrow-next",
+            "boundingRect": {
+              "top": 374,
+              "bottom": 422,
+              "left": 364,
+              "right": 412,
+              "width": 48,
+              "height": 48
+            },
+            "snippet": "<a class=\"et-pb-arrow-next\" href=\"#\">",
+            "nodeLabel": "div.et_pb_section > div.et_pb_module > div.et-pb-slider-arrows > a.et-pb-arrow-next",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag244",
+          "wcag412",
+          "section508",
+          "section508.22.a",
+          "TTv5",
+          "TT6.a",
+          "EN-301-549",
+          "EN-9.2.4.4",
+          "EN-9.4.1.2",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 2
+  },
+  {
+    "id": "target-size",
+    "title": "Touch targets do not have sufficient size or spacing.",
+    "description": "Touch targets with sufficient size and spacing help users who may have difficulty targeting small controls to activate the targets. [Learn more about touch targets](https://dequeuniversity.com/rules/axe/4.10/target-size).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-8-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,2,DIV,0,A",
+            "selector": "div.et_pb_section > div.et_pb_module > div.et-pb-controllers > a",
+            "boundingRect": {
+              "top": 585,
+              "bottom": 592,
+              "left": 169,
+              "right": 176,
+              "width": 7,
+              "height": 7
+            },
+            "snippet": "<a href=\"#\" class=\"\">",
+            "nodeLabel": "1",
+            "explanation": "Fix any of the following:\n  Target has insufficient size (7px by 7px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 10px instead of at least 24px."
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-9-A",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,2,DIV,1,A",
+                  "selector": "div.et_pb_section > div.et_pb_module > div.et-pb-controllers > a.et-pb-active-control",
+                  "boundingRect": {
+                    "top": 585,
+                    "bottom": 592,
+                    "left": 186,
+                    "right": 193,
+                    "width": 7,
+                    "height": 7
+                  },
+                  "snippet": "<a href=\"#\" class=\"et-pb-active-control\">",
+                  "nodeLabel": "2"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-9-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,2,DIV,1,A",
+            "selector": "div.et_pb_section > div.et_pb_module > div.et-pb-controllers > a.et-pb-active-control",
+            "boundingRect": {
+              "top": 585,
+              "bottom": 592,
+              "left": 186,
+              "right": 193,
+              "width": 7,
+              "height": 7
+            },
+            "snippet": "<a href=\"#\" class=\"et-pb-active-control\">",
+            "nodeLabel": "2",
+            "explanation": "Fix any of the following:\n  Target has insufficient size (7px by 7px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 10px instead of at least 24px."
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-8-A",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,2,DIV,0,A",
+                  "selector": "div.et_pb_section > div.et_pb_module > div.et-pb-controllers > a",
+                  "boundingRect": {
+                    "top": 585,
+                    "bottom": 592,
+                    "left": 169,
+                    "right": 176,
+                    "width": 7,
+                    "height": 7
+                  },
+                  "snippet": "<a href=\"#\" class=\"\">",
+                  "nodeLabel": "1"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-10-A",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,2,DIV,2,A",
+                  "selector": "div.et_pb_section > div.et_pb_module > div.et-pb-controllers > a",
+                  "boundingRect": {
+                    "top": 585,
+                    "bottom": 592,
+                    "left": 203,
+                    "right": 210,
+                    "width": 7,
+                    "height": 7
+                  },
+                  "snippet": "<a href=\"#\">",
+                  "nodeLabel": "3"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-10-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,2,DIV,2,A",
+            "selector": "div.et_pb_section > div.et_pb_module > div.et-pb-controllers > a",
+            "boundingRect": {
+              "top": 585,
+              "bottom": 592,
+              "left": 203,
+              "right": 210,
+              "width": 7,
+              "height": 7
+            },
+            "snippet": "<a href=\"#\">",
+            "nodeLabel": "3",
+            "explanation": "Fix any of the following:\n  Target has insufficient size (7px by 7px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 10px instead of at least 24px."
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-9-A",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,2,DIV,1,A",
+                  "selector": "div.et_pb_section > div.et_pb_module > div.et-pb-controllers > a.et-pb-active-control",
+                  "boundingRect": {
+                    "top": 585,
+                    "bottom": 592,
+                    "left": 186,
+                    "right": 193,
+                    "width": 7,
+                    "height": 7
+                  },
+                  "snippet": "<a href=\"#\" class=\"et-pb-active-control\">",
+                  "nodeLabel": "2"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-11-A",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,2,DIV,3,A",
+                  "selector": "div.et_pb_section > div.et_pb_module > div.et-pb-controllers > a",
+                  "boundingRect": {
+                    "top": 585,
+                    "bottom": 592,
+                    "left": 220,
+                    "right": 227,
+                    "width": 7,
+                    "height": 7
+                  },
+                  "snippet": "<a href=\"#\">",
+                  "nodeLabel": "4"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-11-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,2,DIV,3,A",
+            "selector": "div.et_pb_section > div.et_pb_module > div.et-pb-controllers > a",
+            "boundingRect": {
+              "top": 585,
+              "bottom": 592,
+              "left": 220,
+              "right": 227,
+              "width": 7,
+              "height": 7
+            },
+            "snippet": "<a href=\"#\">",
+            "nodeLabel": "4",
+            "explanation": "Fix any of the following:\n  Target has insufficient size (7px by 7px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 10px instead of at least 24px."
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-10-A",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,2,DIV,2,A",
+                  "selector": "div.et_pb_section > div.et_pb_module > div.et-pb-controllers > a",
+                  "boundingRect": {
+                    "top": 585,
+                    "bottom": 592,
+                    "left": 203,
+                    "right": 210,
+                    "width": 7,
+                    "height": 7
+                  },
+                  "snippet": "<a href=\"#\">",
+                  "nodeLabel": "3"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-12-A",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,2,DIV,4,A",
+                  "selector": "div.et_pb_section > div.et_pb_module > div.et-pb-controllers > a",
+                  "boundingRect": {
+                    "top": 585,
+                    "bottom": 592,
+                    "left": 237,
+                    "right": 244,
+                    "width": 7,
+                    "height": 7
+                  },
+                  "snippet": "<a href=\"#\">",
+                  "nodeLabel": "5"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-12-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,2,DIV,4,A",
+            "selector": "div.et_pb_section > div.et_pb_module > div.et-pb-controllers > a",
+            "boundingRect": {
+              "top": 585,
+              "bottom": 592,
+              "left": 237,
+              "right": 244,
+              "width": 7,
+              "height": 7
+            },
+            "snippet": "<a href=\"#\">",
+            "nodeLabel": "5",
+            "explanation": "Fix any of the following:\n  Target has insufficient size (7px by 7px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 10px instead of at least 24px."
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-11-A",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,2,DIV,3,A",
+                  "selector": "div.et_pb_section > div.et_pb_module > div.et-pb-controllers > a",
+                  "boundingRect": {
+                    "top": 585,
+                    "bottom": 592,
+                    "left": 220,
+                    "right": 227,
+                    "width": 7,
+                    "height": 7
+                  },
+                  "snippet": "<a href=\"#\">",
+                  "nodeLabel": "4"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.sensory-and-visual-cues",
+          "wcag22aa",
+          "wcag258"
+        ]
+      }
+    },
+    "errorCount": 5
+  }
+]

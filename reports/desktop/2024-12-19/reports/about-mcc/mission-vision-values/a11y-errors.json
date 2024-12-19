@@ -1,0 +1,124 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn how to provide sufficient color contrast](https://dequeuniversity.com/rules/axe/4.10/color-contrast).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-0-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,3,DIV,1,DIV,1,DIV,0,DIV,0,DIV,1,P,0,A",
+            "selector": "div.et_pb_module > div.et_pb_text_inner > p > a",
+            "boundingRect": {
+              "top": 1272,
+              "bottom": 1295,
+              "left": 580,
+              "right": 766,
+              "width": 186,
+              "height": 23
+            },
+            "snippet": "<a href=\"https://www.morgancc.edu/download/2018-2023-strategic-plan-extended-throug…\" target=\"_blank\" rel=\"noopener\">",
+            "nodeLabel": "2018-23 Strategic Plan",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.74 (foreground color: #2ea3f2, background color: #ffffff, font size: 12.8pt (17px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-1-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,3,DIV",
+                  "selector": "div.entry-content > div.et-l > div.et_builder_inner_content > div.et_pb_section",
+                  "boundingRect": {
+                    "top": 957,
+                    "bottom": 1640,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 683
+                  },
+                  "snippet": "<div class=\"et_pb_section et_pb_section_5 et_section_regular\">",
+                  "nodeLabel": "Strategic Plan\n\nThe Morgan Community College Strategic Plan is an organizationa…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-2-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,3,DIV,1,DIV,1,DIV,0,DIV,0,DIV,1,P,3,A",
+            "selector": "div.et_pb_module > div.et_pb_text_inner > p > a",
+            "boundingRect": {
+              "top": 1306,
+              "bottom": 1329,
+              "left": 580,
+              "right": 799,
+              "width": 219,
+              "height": 23
+            },
+            "snippet": "<a href=\"https://www.morgancc.edu/download/strategic-plan-appendix/?wpdmdl=22993547…\" target=\"_blank\" rel=\"noopener\">",
+            "nodeLabel": "Strategic Plan Appendices",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.74 (foreground color: #2ea3f2, background color: #ffffff, font size: 12.8pt (17px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-1-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,3,DIV",
+                  "selector": "div.entry-content > div.et-l > div.et_builder_inner_content > div.et_pb_section",
+                  "boundingRect": {
+                    "top": 957,
+                    "bottom": 1640,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 683
+                  },
+                  "snippet": "<div class=\"et_pb_section et_pb_section_5 et_section_regular\">",
+                  "nodeLabel": "Strategic Plan\n\nThe Morgan Community College Strategic Plan is an organizationa…"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 2
+  }
+]

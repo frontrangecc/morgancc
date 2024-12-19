@@ -1,0 +1,227 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn how to provide sufficient color contrast](https://dequeuniversity.com/rules/axe/4.10/color-contrast).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-0-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV",
+            "selector": "div.et_pb_row > div.et_pb_column > div.et_pb_module > div.et_pb_text_inner",
+            "boundingRect": {
+              "top": 582,
+              "bottom": 694,
+              "left": 41,
+              "right": 371,
+              "width": 330,
+              "height": 112
+            },
+            "snippet": "<div class=\"et_pb_text_inner\">",
+            "nodeLabel": "MCC will host its commencement ceremony on Saturday May 4, 2019 in the Fort Mor…",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.01 (foreground color: #ffffff, background color: #4c86a0, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-1-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV",
+                  "selector": "div#main-content > div.et-l > div.et_builder_inner_content > div.et_pb_section",
+                  "boundingRect": {
+                    "top": 562,
+                    "bottom": 754,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 192
+                  },
+                  "snippet": "<div class=\"et_pb_section et_pb_section_1_tb_body et_pb_with_background et_section_reg…\" style=\"\">",
+                  "nodeLabel": "MCC will host its commencement ceremony on Saturday May 4, 2019 in the Fort Mor…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-2-SPAN",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,3,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,7,DIV,1,DIV,1,ARTICLE,0,DIV,1,DIV,0,SPAN,0,A,0,SPAN",
+            "selector": "div.tg-item-content-holder > span.tg-cats-holder > a.category > span.tg-item-term",
+            "boundingRect": {
+              "top": 25266,
+              "bottom": 25298,
+              "left": 152,
+              "right": 260,
+              "width": 109,
+              "height": 32
+            },
+            "snippet": "<span class=\"tg-item-term\" style=\"background:#8cb7c9;color:#ffffff\">",
+            "nodeLabel": "PRESS RELEASE",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.15 (foreground color: #ffffff, background color: #8cb7c9, font size: 8.3pt (11px), font weight: bold). Expected contrast ratio of 4.5:1"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-3-P",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,3,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,7,DIV,1,DIV,1,ARTICLE,0,DIV,1,DIV,2,P",
+            "selector": "article.tg-item > div.tg-item-inner > div.tg-item-content-holder > p.tg-item-excerpt",
+            "boundingRect": {
+              "top": 25430,
+              "bottom": 25550,
+              "left": 79,
+              "right": 333,
+              "width": 254,
+              "height": 120
+            },
+            "snippet": "<p class=\"tg-item-excerpt\">",
+            "nodeLabel": "The BAS in Education will incorporate more applied, hands-on learning than a tr…",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-4-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,3,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,7,DIV,1,DIV,1,ARTICLE,0,DIV,1,DIV",
+                  "selector": "div.tg-grid-holder > article.tg-item > div.tg-item-inner > div.tg-item-content-holder",
+                  "boundingRect": {
+                    "top": 25266,
+                    "bottom": 25677,
+                    "left": 55,
+                    "right": 357,
+                    "width": 302,
+                    "height": 411
+                  },
+                  "snippet": "<div class=\"tg-item-content-holder tg-dark image-format\">",
+                  "nodeLabel": "PRESS RELEASE\nMCC Announces New Bachelor’s Degree in Education & Opportunity NO…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-5-SPAN",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,3,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,7,DIV,1,DIV,1,ARTICLE,0,DIV,1,DIV,4,DIV,0,SPAN",
+            "selector": "div.tg-item-inner > div.tg-item-content-holder > div.tg-item-footer > span.tg-item-date",
+            "boundingRect": {
+              "top": 25637,
+              "bottom": 25655,
+              "left": 105,
+              "right": 222,
+              "width": 117,
+              "height": 18
+            },
+            "snippet": "<span class=\"tg-item-date\">",
+            "nodeLabel": "December 10, 2024",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-4-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,3,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,7,DIV,1,DIV,1,ARTICLE,0,DIV,1,DIV",
+                  "selector": "div.tg-grid-holder > article.tg-item > div.tg-item-inner > div.tg-item-content-holder",
+                  "boundingRect": {
+                    "top": 25266,
+                    "bottom": 25677,
+                    "left": 55,
+                    "right": 357,
+                    "width": 302,
+                    "height": 411
+                  },
+                  "snippet": "<div class=\"tg-item-content-holder tg-dark image-format\">",
+                  "nodeLabel": "PRESS RELEASE\nMCC Announces New Bachelor’s Degree in Education & Opportunity NO…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-6-A",
+            "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,3,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,7,DIV,1,DIV,1,ARTICLE,0,DIV,1,DIV,4,DIV,2,A",
+            "selector": "div.tg-item-inner > div.tg-item-content-holder > div.tg-item-footer > a.tg-item-comment",
+            "boundingRect": {
+              "top": 25634,
+              "bottom": 25659,
+              "left": 227,
+              "right": 307,
+              "width": 80,
+              "height": 25
+            },
+            "snippet": "<a class=\"tg-item-comment\" href=\"https://www.morgancc.edu/2024/12/10/mcc-announces-new-bachelors-degree-in-…\" target=\"_self\" style=\"color:#999999\">",
+            "nodeLabel": "No comment",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-4-DIV",
+                  "path": "1,HTML,1,BODY,1,DIV,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,3,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,7,DIV,1,DIV,1,ARTICLE,0,DIV,1,DIV",
+                  "selector": "div.tg-grid-holder > article.tg-item > div.tg-item-inner > div.tg-item-content-holder",
+                  "boundingRect": {
+                    "top": 25266,
+                    "bottom": 25677,
+                    "left": 55,
+                    "right": 357,
+                    "width": 302,
+                    "height": 411
+                  },
+                  "snippet": "<div class=\"tg-item-content-holder tg-dark image-format\">",
+                  "nodeLabel": "PRESS RELEASE\nMCC Announces New Bachelor’s Degree in Education & Opportunity NO…"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 5
+  }
+]

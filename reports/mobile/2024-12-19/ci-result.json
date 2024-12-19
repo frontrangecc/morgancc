@@ -1,0 +1,1602 @@
+[
+  {
+    "path": "/",
+    "score": 0.72,
+    "performance": 0.6,
+    "accessibility": 0.8,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2018/12/12/jennifer-thistle-named-mcc-faculty-of-the-year/",
+    "score": 0.75,
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/01/15/abstract-painting-exhibit-nikhi-aum/",
+    "score": 0.75,
+    "performance": 0.57,
+    "accessibility": 0.95,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/01/15/fms-bank-donation-supports-entrepreneurs/",
+    "score": 0.7,
+    "performance": 0.38,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/02/19/dr-jarrold-schaefer-family-endowment-scholarship-to-support-future-bachelor-of-science-nursing-students/",
+    "score": 0.76,
+    "performance": 0.56,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/03/20/mcc-foundation-20th-annual-gala/",
+    "score": 0.79,
+    "performance": 0.59,
+    "accessibility": 1,
+    "best-practices": 0.57,
+    "seo": 1
+  },
+  {
+    "path": "/2019/04/04/mcc-employees-of-the-year-recognized/",
+    "score": 0.75,
+    "performance": 0.56,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/04/08/mccs-cace-presents-boulder-international-film-festival/",
+    "score": 0.75,
+    "performance": 0.55,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/04/09/mcc-jazz-ensemble-spring-concert/",
+    "score": 0.71,
+    "performance": 0.39,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/04/25/mcc-receives-national-science-foundation-award/",
+    "score": 0.72,
+    "performance": 0.45,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/04/27/the-legendary-ladies-unconventional-women-of-the-west/",
+    "score": 0.71,
+    "performance": 0.41,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/05/02/morgan-community-college-commencement/",
+    "score": 0.75,
+    "performance": 0.58,
+    "accessibility": 0.95,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/05/16/mcc-receives-accreditation-for-physical-therapist-assistant-program/",
+    "score": 0.72,
+    "performance": 0.45,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/06/10/mcc-receives-approval-to-offer-bachelor-of-science-in-nursing/",
+    "score": 0.72,
+    "performance": 0.46,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/09/26/morgan-community-college-receives-3-0-million-federal-title-v-grant/",
+    "score": 0.75,
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/10/09/mcc-and-fort-morgan-collaborate-on-director-position/",
+    "score": 0.76,
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/10/28/concert-to-feature-101st-army-rock-band/",
+    "score": 0.72,
+    "performance": 0.43,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/10/31/groundbreaking-scheduled-for-mccs-poplar-hall-agriculture-center-for-innovation/",
+    "score": 0.72,
+    "performance": 0.42,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/11/05/aspen-institute-names-morgan-community-college-as-a-top-150-u-s-community-college-eligible-for-2021-aspen-prize/",
+    "score": 0.71,
+    "performance": 0.42,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/11/18/mcc-jazz-ensemble-winter-concert-scheduled/",
+    "score": 0.72,
+    "performance": 0.42,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2019/12/19/support-morgan-community-college-foundation-on-colorado-gives-day/",
+    "score": 0.77,
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/2020/01/13/mcc-cace-exhibit-features-kimberly-pezeshki-photography/",
+    "score": 0.75,
+    "performance": 0.59,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/01/24/morgan-community-college-receives-grant-for-multicultural-entrepreneur-program/",
+    "score": 0.77,
+    "performance": 0.61,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/02/04/mcc-cace-expands-to-include-community-arts/",
+    "score": 0.71,
+    "performance": 0.38,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/02/17/morgan-county-student-artwork-exhibit-best-of-the-best/",
+    "score": 0.72,
+    "performance": 0.43,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/02/18/mcc-foundation-21st-annual-gala/",
+    "score": 0.75,
+    "performance": 0.47,
+    "accessibility": 1,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/2020/02/19/mcc-recognizes-employees-of-the-year/",
+    "score": 0.75,
+    "performance": 0.57,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/02/21/mccs-fall-academic-honor-list/",
+    "score": 0.72,
+    "performance": 0.43,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/03/12/__trashed/",
+    "score": 0.75,
+    "performance": 0.57,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/03/12/mcc-takes-steps-to-mitigate-the-spread-of-covid-19/",
+    "score": 0.77,
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/04/23/morgan-community-college-to-hold-virtual-commencement/",
+    "score": 0.76,
+    "performance": 0.6,
+    "accessibility": 0.96,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/04/30/mcc-foundation-launches-emergency-student-fund-campaign/",
+    "score": 0.77,
+    "performance": 0.55,
+    "accessibility": 1,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/2020/05/07/mcc-student-award-winners-announced/",
+    "score": 0.77,
+    "performance": 0.62,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/05/11/mcc-offers-e-commerce-presentation/",
+    "score": 0.72,
+    "performance": 0.44,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/05/18/morgan-community-college-announces-faculty-for-new-multicultural-entrepreneur-program/",
+    "score": 0.76,
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/06/17/morgan-community-college-announces-fall-semester-plans/",
+    "score": 0.72,
+    "performance": 0.42,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/07/28/mcc-50th-anniversary-art-exhibit-coming-soon/",
+    "score": 0.77,
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/08/03/mcc-cace-presents-boulder-international-film-festival/",
+    "score": 0.72,
+    "performance": 0.43,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/08/06/dedication-scheduled-for-mccs-poplar-hall-agriculture-center-for-innovation/",
+    "score": 0.74,
+    "performance": 0.43,
+    "accessibility": 1,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/2020/09/02/mcc-develops-covid-19-communication-plan/",
+    "score": 0.72,
+    "performance": 0.39,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/09/03/mcc-cace-presents-google-my-business-workshop/",
+    "score": 0.75,
+    "performance": 0.59,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/09/04/mcc-to-offer-inspirational-interior-design-workshop/",
+    "score": 0.75,
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/09/29/mcc-cace-to-host-presentations-on-artcars-and-boosting-work-team-creativity/",
+    "score": 0.71,
+    "performance": 0.42,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/09/30/mcc-cace-offers-colorado-shakespeare-festival-virtual-performance/",
+    "score": 0.72,
+    "performance": 0.43,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/10/07/mcc-foundation-receives-donation-for-early-childhood-education-scholarships/",
+    "score": 0.74,
+    "performance": 0.43,
+    "accessibility": 1,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/2020/11/10/veterans-celebration-to-feature-101st-army-band/",
+    "score": 0.75,
+    "performance": 0.56,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/11/12/mcc-media-and-design-faculty-as-key-speaker-for-lunch-and-learn/",
+    "score": 0.77,
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/11/24/morgan-community-college-thanksgiving-schedule/",
+    "score": 0.71,
+    "performance": 0.39,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/12/10/mcc-jazz-ensemble-virtual-concert-jazz-in-modern-times/",
+    "score": 0.71,
+    "performance": 0.41,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2020/12/16/morgan-community-college-holiday-closure/",
+    "score": 0.76,
+    "performance": 0.61,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/01/19/mcc-cace-launches-reflections-in-nature-painting-exhibit/",
+    "score": 0.72,
+    "performance": 0.43,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/01/19/mcc-cace-presents-learning-from-indigenous-peoples/",
+    "score": 0.75,
+    "performance": 0.56,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/01/26/mcc-foundation-announces-wickstrom-memorial-endowment-scholarship/",
+    "score": 0.74,
+    "performance": 0.4,
+    "accessibility": 1,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/2021/03/03/mcc-cace-offers-writing-workshop/",
+    "score": 0.72,
+    "performance": 0.46,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/03/08/mcc-recognizes-employees-of-the-year-2/",
+    "score": 0.76,
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/03/10/morgan-county-student-artwork-exhibit-best-of-the-best-2/",
+    "score": 0.72,
+    "performance": 0.42,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/03/26/mcc-foundation-22nd-annual-gala-results/",
+    "score": 0.78,
+    "performance": 0.62,
+    "accessibility": 1,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/04/08/mcc-cace-presents-month-of-the-young-child-art-exhibit/",
+    "score": 0.71,
+    "performance": 0.42,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/04/19/mcc-announces-student-excellence-awards-recipients/",
+    "score": 0.72,
+    "performance": 0.41,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/05/06/mcc-tax-help-program-yields-high-returns/",
+    "score": 0.76,
+    "performance": 0.61,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/05/06/mcc-to-hold-virtual-commencement/",
+    "score": 0.75,
+    "performance": 0.57,
+    "accessibility": 0.95,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/05/10/morgan-community-college-closed-memorial-day/",
+    "score": 0.76,
+    "performance": 0.62,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/06/23/annual-western-art-show-featured-at-brush-rodeo/",
+    "score": 0.71,
+    "performance": 0.41,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/08/05/enrolling-now-for-adult-basic-education-classes-at-mcc/",
+    "score": 0.73,
+    "performance": 0.43,
+    "accessibility": 0.95,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/08/27/calendar-photo-contest/",
+    "score": 0.72,
+    "performance": 0.43,
+    "accessibility": 0.95,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/09/01/morgan-community-college-closed-labor-day/",
+    "score": 0.76,
+    "performance": 0.62,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/09/22/morgan-community-college-receives-4-7-million-hispanic-serving-institutions-program-stem-grant/",
+    "score": 0.71,
+    "performance": 0.4,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/11/01/mcc-cace-offers-marketing-workshop-with-consultant-melissa-forziat/",
+    "score": 0.71,
+    "performance": 0.41,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/11/02/mcc-cace-presents-veteran-art-exhibit/",
+    "score": 0.72,
+    "performance": 0.45,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/11/16/morgan-community-college-receives-accreditation-for-rn-to-bsn-program/",
+    "score": 0.76,
+    "performance": 0.61,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/11/18/morgan-community-college-thanksgiving-closure/",
+    "score": 0.7,
+    "performance": 0.37,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/12/03/mcc-announces-annual-calendar-photo-contest-winner/",
+    "score": 0.73,
+    "performance": 0.44,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/12/14/morgan-community-college-holiday-closure-3/",
+    "score": 0.76,
+    "performance": 0.62,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021/12/14/morgan-community-college-receives-1-1-million-for-electrical-mechanical-program/",
+    "score": 0.71,
+    "performance": 0.39,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/01/03/mcc-cace-hosts-3d-polymer-clay-art-exhibit-and-workshop/",
+    "score": 0.72,
+    "performance": 0.44,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/01/14/mcc-partners-with-tax-help-colorado/",
+    "score": 0.74,
+    "performance": 0.53,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/02/25/mcc-foundation-announces-23rd-annual-gala/",
+    "score": 0.74,
+    "performance": 0.43,
+    "accessibility": 1,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/2022/03/22/mcc-recognizes-employees-of-the-year-3/",
+    "score": 0.72,
+    "performance": 0.43,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/04/07/summer-registration-underway-at-mcc/",
+    "score": 0.75,
+    "performance": 0.59,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/04/08/mcc-fall-2021-academic-honors/",
+    "score": 0.76,
+    "performance": 0.59,
+    "accessibility": 0.95,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/04/11/mcc-announces-student-excellence-awards-recipients-2/",
+    "score": 0.71,
+    "performance": 0.41,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/05/09/trash-cat/",
+    "score": 0.76,
+    "performance": 0.56,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/05/17/morgan-community-college-commencement-2/",
+    "score": 0.75,
+    "performance": 0.57,
+    "accessibility": 0.95,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/05/23/mcc-cace-presents-portraiture-exhibit-by-joshua-mckenzie/",
+    "score": 0.75,
+    "performance": 0.57,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/06/24/annual-western-art-show-featured-at-brush-rodeo-2/",
+    "score": 0.75,
+    "performance": 0.56,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/08/03/mcc-prepares-students-for-careers-in-trade-industries/",
+    "score": 0.72,
+    "performance": 0.41,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/08/08/western-governors-university-visits-morgan-community-college/",
+    "score": 0.7,
+    "performance": 0.37,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/08/12/mcc-cace-presents-bluegrass-concert-featuring-meadow-mountain-band/",
+    "score": 0.72,
+    "performance": 0.42,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/08/16/morgan-community-college-burlington-campus-closure-and-saturday-registration-orientation-opportunities/",
+    "score": 0.75,
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/09/01/morgan-community-college-closed-labor-day-2/",
+    "score": 0.76,
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/09/07/mcc-annual-calendar-photo-contest/",
+    "score": 0.71,
+    "performance": 0.42,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/09/12/mcc-receives-care-forward-colorado-funding/",
+    "score": 0.73,
+    "performance": 0.44,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/09/21/mcc-cace-presents-boulder-international-film-festival-2/",
+    "score": 0.75,
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/11/01/mcc-foundation-announces-date-for-2023-gala/",
+    "score": 0.77,
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/2022/11/08/mcc-cace-juried-holiday-art-sale/",
+    "score": 0.72,
+    "performance": 0.45,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/11/17/morgan-community-college-thanksgiving-closure-2/",
+    "score": 0.7,
+    "performance": 0.35,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/11/28/mcc-announces-annual-calendar-photo-contest-winner-2/",
+    "score": 0.72,
+    "performance": 0.41,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2022/12/16/holiday-closure/",
+    "score": 0.76,
+    "performance": 0.61,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/01/24/mcc-offers-free-tax-preparation-with-tax-help-colorado-program/",
+    "score": 0.71,
+    "performance": 0.4,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/03/03/2023-best-of-the-best-student-art-show/",
+    "score": 0.76,
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/03/10/24th-annual-gala-results/",
+    "score": 0.77,
+    "performance": 0.61,
+    "accessibility": 0.94,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/2023/03/16/mcc-recognizes-employees-of-the-year-4/",
+    "score": 0.75,
+    "performance": 0.57,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/03/22/cace-best-of-the-best-student-art-exhibit-awards-ceremony/",
+    "score": 0.75,
+    "performance": 0.56,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/03/31/mcc-prepares-students-for-careers-in-trade-industries-plans-new-facility/",
+    "score": 0.75,
+    "performance": 0.57,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/04/20/bank-of-colorado-scholarship/",
+    "score": 0.77,
+    "performance": 0.61,
+    "accessibility": 0.94,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/2023/04/25/bill-hinkhouse-memorial-scholarship-established/",
+    "score": 0.76,
+    "performance": 0.52,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 1
+  },
+  {
+    "path": "/2023/05/01/2023-commencement-graduates/",
+    "score": 0.72,
+    "performance": 0.42,
+    "accessibility": 0.96,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/05/02/mcc-tax-help-program-yields-high-returns-2/",
+    "score": 0.75,
+    "performance": 0.56,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/06/13/mcc-closed-for-juneteenth/",
+    "score": 0.76,
+    "performance": 0.63,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/06/13/soul-rhythm-african-drumming-workshop-exhibition/",
+    "score": 0.75,
+    "performance": 0.53,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/06/27/annual-western-art-show-featured-at-brush-rodeo-3/",
+    "score": 0.77,
+    "performance": 0.61,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/06/27/mcc-closed-july-3-and-4/",
+    "score": 0.76,
+    "performance": 0.61,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/07/10/mcc-to-hold-industrial-controls-and-telematics-workshop/",
+    "score": 0.72,
+    "performance": 0.44,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/07/19/mcc-cace-announces-spectacular-dragon-dancers-event/",
+    "score": 0.75,
+    "performance": 0.59,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/07/24/mcc-cace-presents-artistic-printmaking-exhibit-featuring-sarah-konrad/",
+    "score": 0.71,
+    "performance": 0.42,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/09/08/disabled-veterans-scholarship-established-with-mcc-foundation/",
+    "score": 0.76,
+    "performance": 0.53,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 1
+  },
+  {
+    "path": "/2023/09/11/mcc-annual-calendar-photo-contest-showcasing-the-beauty-of-northeast-colorado/",
+    "score": 0.76,
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/09/12/mcc-foundation-receives-843750-donation-to-support-skilled-trades-training/",
+    "score": 0.72,
+    "performance": 0.4,
+    "accessibility": 0.94,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/2023/09/22/impressionist-landscape-paintings-by-andrew-busch-to-be-showcased-at-the-mcc-cace-gallery-of-fine-art/",
+    "score": 0.75,
+    "performance": 0.56,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/09/22/mcc-cace-presents-the-boulder-international-film-festival/",
+    "score": 0.71,
+    "performance": 0.41,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/10/04/mcc-cace-presents-an-evening-of-music-with-the-greeley-chorale/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/10/11/mcc-cace-presents-the-mystery-of-publishing-unraveled-an-interactive-discussion-with-writer-walter-chaw/",
+    "score": 0.75,
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/10/30/mcc-offers-informative-virtual-session-on-teacher-preparation-pathways/",
+    "score": 0.75,
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/10/30/mcc-partners-with-vfw-fort-morgan-post-2551-for-veterans-plaza-project/",
+    "score": 0.77,
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/11/02/mcc-cace-announces-juried-holiday-art-show-and-sale/",
+    "score": 0.71,
+    "performance": 0.42,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/11/06/mccs-3rd-annual-growher-event-a-success-empowering-young-women-in-agriculture-and-leadership/",
+    "score": 0.75,
+    "performance": 0.56,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/11/13/morgan-community-college-thanksgiving-closure-3/",
+    "score": 0.77,
+    "performance": 0.61,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/11/28/support-mcc-on-colorado-gives-day/",
+    "score": 0.77,
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/2023/12/05/groundbreaking-scheduled-for-mccs-dahms-talton-center-for-skilled-trades-and-technology/",
+    "score": 0.75,
+    "performance": 0.59,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/12/13/mcc-foundation-announces-25th-annual-gala/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.94,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/2023/12/15/mcc-foundation-receives-1-million-gift-to-establish-gene-doty-health-scholarships-and-programs-endowment/",
+    "score": 0.74,
+    "performance": 0.43,
+    "accessibility": 1,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/2023/12/15/morgan-community-college-holiday-closure-2/",
+    "score": 0.76,
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/12/18/mcc-announces-annual-calendar-photo-contest-winner-3/",
+    "score": 0.75,
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/12/18/morgan-community-college-closure/",
+    "score": 0.76,
+    "performance": 0.62,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2023/12/20/morgan-community-college-acquires-property-in-wray-colorado/",
+    "score": 0.75,
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/01/04/mcc-receives-2-9-million-grant-for-career-readiness-and-transfer-success/",
+    "score": 0.75,
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/01/08/mcc-cace-presents-creative-wildlife-exhibit-featuring-artist-traci-zajaczkowski/",
+    "score": 0.71,
+    "performance": 0.41,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/01/31/mcc-announces-fall-2023-academic-honors/",
+    "score": 0.72,
+    "performance": 0.41,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/02/06/mcc-to-host-mental-health-exhibit/",
+    "score": 0.75,
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/02/19/mcc-cace-presents-best-of-the-best-student-art-show/",
+    "score": 0.75,
+    "performance": 0.57,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/03/15/mcc-cace-presents-month-of-the-young-child-mixed-media-art-exhibit/",
+    "score": 0.71,
+    "performance": 0.42,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/03/20/mcc-foundation-25th-annual-gala-results/",
+    "score": 0.77,
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/2024/03/26/mcc-recognizes-employees-of-the-year-5/",
+    "score": 0.76,
+    "performance": 0.61,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/03/26/morgan-community-college-south-entrance-closure/",
+    "score": 0.76,
+    "performance": 0.63,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/04/04/cace-best-of-the-best-student-art-exhibit-awards/",
+    "score": 0.75,
+    "performance": 0.59,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/04/04/new-location-for-the-mcc-bennett-center/",
+    "score": 0.76,
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/04/08/mcc-announces-student-excellence-awards-recipients-3/",
+    "score": 0.74,
+    "performance": 0.51,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/04/08/mcc-cace-presents-joint-usafa-blue-delta-fmhs-concert/",
+    "score": 0.75,
+    "performance": 0.57,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/04/08/mcc-fort-morgan-campus-limited-services-april-12/",
+    "score": 0.76,
+    "performance": 0.62,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/04/16/linda-camp-johnson-endowment-scholarship-established-with-morgan-community-college-foundation/",
+    "score": 0.77,
+    "performance": 0.54,
+    "accessibility": 1,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/2024/04/25/morgan-community-college-commencement-3/",
+    "score": 0.76,
+    "performance": 0.57,
+    "accessibility": 0.97,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/05/07/mcc-cace-presents-astrophotography-art-exhibit-with-photographer-maggie-martin/",
+    "score": 0.7,
+    "performance": 0.38,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/06/05/morgan-community-college-closed-in-observance-of-juneteenth/",
+    "score": 0.76,
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/06/25/mcc-invites-community-to-harvest-open-house-for-mcc-farmbox/",
+    "score": 0.72,
+    "performance": 0.4,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/06/25/morgan-community-college-closed-july-4-and-5/",
+    "score": 0.76,
+    "performance": 0.59,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/07/25/dr-marlon-escamilla-rodriguez-selected-as-2024-25-fulbright-scholar-in-residence-at-mcc/",
+    "score": 0.71,
+    "performance": 0.41,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/08/20/mcc-cace-presents-boulder-international-film-festival-2024/",
+    "score": 0.7,
+    "performance": 0.38,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/08/20/morgan-community-college-closed-labor-day-3/",
+    "score": 0.76,
+    "performance": 0.62,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/09/19/mcc-cace-presents-abstract-photography-art-exhibit-featuring-artist-steve-caufield/",
+    "score": 0.71,
+    "performance": 0.42,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/09/19/mcc-cace-to-sponsor-high-plains-music-ensemble-at-brush-oktoberfest/",
+    "score": 0.73,
+    "performance": 0.43,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/10/10/2024-mcc-annual-calendar-photo-contest/",
+    "score": 0.76,
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/10/31/mcc-to-host-salute-to-veterans-event/",
+    "score": 0.76,
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/11/07/mcc-receives-approval-for-bachelor-of-applied-science-in-business-administration-and-management/",
+    "score": 0.72,
+    "performance": 0.41,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/11/18/morgan-community-college-thanksgiving-2024-holiday-closure/",
+    "score": 0.76,
+    "performance": 0.63,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/11/19/mcc-cace-announces-2024-juried-holiday-art-show-and-sale/",
+    "score": 0.72,
+    "performance": 0.39,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/12/09/mcc-cace-presents-portrait-painting-exhibit-by-connie-ruel/",
+    "score": 0.73,
+    "performance": 0.43,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/12/10/mcc-announces-new-bachelors-degree-in-education-opportunity-now-grant/",
+    "score": 0.76,
+    "performance": 0.63,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/12/17/mcc-announces-2025-calendar-photo-contest-winner/",
+    "score": 0.71,
+    "performance": 0.42,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/2024/12/17/morgan-community-college-2024-holiday-closure-2/",
+    "score": 0.76,
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/3411-2/",
+    "score": 0.73,
+    "performance": 0.37,
+    "accessibility": 1,
+    "best-practices": 0.54,
+    "seo": 1
+  },
+  {
+    "path": "/about-mcc/",
+    "score": 0.75,
+    "performance": 0.42,
+    "accessibility": 1,
+    "best-practices": 0.57,
+    "seo": 1
+  },
+  {
+    "path": "/about-mcc/accreditation/",
+    "score": 0.78,
+    "performance": 0.61,
+    "accessibility": 0.95,
+    "best-practices": 0.57,
+    "seo": 1
+  },
+  {
+    "path": "/about-mcc/advisory-council/",
+    "score": 0.81,
+    "performance": 0.68,
+    "accessibility": 0.94,
+    "best-practices": 0.61,
+    "seo": 1
+  },
+  {
+    "path": "/about-mcc/cace/",
+    "score": 0.78,
+    "performance": 0.55,
+    "accessibility": 0.95,
+    "best-practices": 0.61,
+    "seo": 1
+  },
+  {
+    "path": "/about-mcc/community-values/",
+    "score": 0.78,
+    "performance": 0.61,
+    "accessibility": 0.95,
+    "best-practices": 0.57,
+    "seo": 1
+  },
+  {
+    "path": "/about-mcc/history/",
+    "score": 0.8,
+    "performance": 0.57,
+    "accessibility": 1,
+    "best-practices": 0.61,
+    "seo": 1
+  },
+  {
+    "path": "/about-mcc/leadership/",
+    "score": 0.84,
+    "performance": 0.77,
+    "accessibility": 1,
+    "best-practices": 0.57,
+    "seo": 1
+  },
+  {
+    "path": "/about-mcc/locations/",
+    "score": 0.79,
+    "performance": 0.59,
+    "accessibility": 1,
+    "best-practices": 0.57,
+    "seo": 1
+  },
+  {
+    "path": "/about-mcc/locations/bennett-center/",
+    "score": 0.77,
+    "performance": 0.6,
+    "accessibility": 0.89,
+    "best-practices": 0.57,
+    "seo": 1
+  },
+  {
+    "path": "/about-mcc/locations/bloedorn-center/",
+    "score": 0.78,
+    "performance": 0.6,
+    "accessibility": 0.97,
+    "best-practices": 0.57,
+    "seo": 1
+  },
+  {
+    "path": "/about-mcc/locations/burlington-center/",
+    "score": 0.79,
+    "performance": 0.62,
+    "accessibility": 0.97,
+    "best-practices": 0.57,
+    "seo": 1
+  },
+  {
+    "path": "/about-mcc/locations/fort-morgan-campus/",
+    "score": 0.75,
+    "performance": 0.41,
+    "accessibility": 0.97,
+    "best-practices": 0.61,
+    "seo": 1
+  },
+  {
+    "path": "/about-mcc/locations/limon-center/",
+    "score": 0.78,
+    "performance": 0.59,
+    "accessibility": 0.97,
+    "best-practices": 0.57,
+    "seo": 1
+  },
+  {
+    "path": "/about-mcc/locations/wray-center/",
+    "score": 0.74,
+    "performance": 0.41,
+    "accessibility": 0.97,
+    "best-practices": 0.57,
+    "seo": 1
+  },
+  {
+    "path": "/about-mcc/staff-directory/",
+    "score": 0.69,
+    "performance": 0.39,
+    "accessibility": 0.9,
+    "best-practices": 0.54,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-mcc/staff-directory/becky-geltz/",
+    "score": 0.69,
+    "performance": 0.39,
+    "accessibility": 0.9,
+    "best-practices": 0.54,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-mcc/staff-directory/cheryle-ruland/",
+    "score": 0.68,
+    "performance": 0.35,
+    "accessibility": 0.9,
+    "best-practices": 0.54,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-mcc/staff-directory/cole-brooks-new/",
+    "score": 0.7,
+    "performance": 0.4,
+    "accessibility": 0.9,
+    "best-practices": 0.57,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-mcc/staff-directory/desryan-jenson/",
+    "score": 0.69,
+    "performance": 0.39,
+    "accessibility": 0.9,
+    "best-practices": 0.54,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-mcc/staff-directory/jessica-trusty/",
+    "score": 0.69,
+    "performance": 0.39,
+    "accessibility": 0.9,
+    "best-practices": 0.54,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-mcc/staff-directory/marsha-jesse/",
+    "score": 0.69,
+    "performance": 0.38,
+    "accessibility": 0.9,
+    "best-practices": 0.54,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-mcc/staff-directory/mo-darar/",
+    "score": 0.69,
+    "performance": 0.38,
+    "accessibility": 0.9,
+    "best-practices": 0.54,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-mcc/staff-directory/tahais-guerrero-rocha-new/",
+    "score": 0.69,
+    "performance": 0.4,
+    "accessibility": 0.9,
+    "best-practices": 0.54,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-mcc/staff-directory/wpbdp_category/administration/",
+    "score": 0.69,
+    "performance": 0.39,
+    "accessibility": 0.9,
+    "best-practices": 0.54,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-mcc/staff-directory/wpbdp_category/cace-center-for-arts-community-enrichment/",
+    "score": 0.69,
+    "performance": 0.38,
+    "accessibility": 0.9,
+    "best-practices": 0.54,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-mcc/staff-directory/wpbdp_category/programs-communication/",
+    "score": 0.68,
+    "performance": 0.37,
+    "accessibility": 0.9,
+    "best-practices": 0.54,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-mcc/staff-directory/wpbdp_category/programs-health-science-technology/",
+    "score": 0.69,
+    "performance": 0.4,
+    "accessibility": 0.9,
+    "best-practices": 0.54,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-mcc/staff-directory/wpbdp_category/programs-psychology/",
+    "score": 0.69,
+    "performance": 0.4,
+    "accessibility": 0.9,
+    "best-practices": 0.54,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-mcc/staff-directory/wpbdp_category/programs-radiologic-technology/",
+    "score": 0.7,
+    "performance": 0.44,
+    "accessibility": 0.9,
+    "best-practices": 0.54,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-mcc/staff-directory/wpbdp_category/programs-science/",
+    "score": 0.69,
+    "performance": 0.4,
+    "accessibility": 0.9,
+    "best-practices": 0.54,
+    "seo": 0.92
+  }
+]
