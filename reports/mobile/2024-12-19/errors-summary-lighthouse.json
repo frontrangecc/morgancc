@@ -1,1 +1,8 @@
-{}
+{
+  "color-contrast": 4343,
+  "select-name": 32,
+  "target-size": 5,
+  "link-name": 2,
+  "link-in-text-block": 2,
+  "heading-order": 1
+}
